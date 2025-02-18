@@ -283,4 +283,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📞 Support
 
-For support, email your.email@example.com or create an issue in the repository.
+For support, ridho.aulia7324@gmail.com or create an issue in the repository.
